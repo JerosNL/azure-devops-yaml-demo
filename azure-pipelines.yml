@@ -11,7 +11,7 @@ steps:
     displayName: Install dependencies
 
   - script: |
-      pytest
+      python -m pytest
     displayName: Run unit tests
 
   - task: CopyFiles@2

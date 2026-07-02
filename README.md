@@ -1,7 +1,5 @@
 # Azure DevOps CI Pipeline Demo
 
-[![Build Status](https://dev.azure.com/jeroenherijgers-devops/01-azure-devops-yaml-demo/_apis/build/status%2FJerosNL.01-azure-devops-yaml-demo?branchName=main)](https://dev.azure.com/jeroenherijgers-devops/01-azure-devops-yaml-demo/_build/latest?definitionId=2&branchName=main)
-
 ## What this is
 
 A Python calculator app with a CI pipeline built in Azure DevOps. This is my first hands-on DevOps project, built to learn how pipelines work in practice.

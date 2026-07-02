@@ -1,6 +1,6 @@
 # Azure DevOps CI Pipeline Demo
 
-![Build Status](https://dev.azure.com/jeroenherjgers-devops/01-azure-devops-yaml-demo/_apis/build/status/01-azure-devops-yaml-demo?branchName=main)
+[![Build Status](https://dev.azure.com/jeroenherijgers-devops/01-azure-devops-yaml-demo/_apis/build/status%2FJerosNL.01-azure-devops-yaml-demo?branchName=main)](https://dev.azure.com/jeroenherijgers-devops/01-azure-devops-yaml-demo/_build/latest?definitionId=2&branchName=main)
 
 ## What this is
 
